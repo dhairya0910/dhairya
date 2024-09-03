@@ -17,10 +17,6 @@ bg image{
 .bg{
     /*background-image: url("bg\ img.jpg");*/
     background-color: rgb(232, 226, 226);
-    background-size: cover;
-    
-    
-    background-position: center;
     height: 240vh;
     width: 100vw;
     /*position: absolute*/;
